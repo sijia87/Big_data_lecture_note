@@ -43,5 +43,6 @@ Configure Git and other commands:
 * git status (then you can not see credential.txt any more)
 * (try) rm .gitignore, then you can see credential.txt by typing git status
 
-
-
+Jan, 22, 2015
+===============
+MapReduce: take code to the data rather than take data to the code
