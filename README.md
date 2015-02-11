@@ -46,3 +46,29 @@ Configure Git and other commands:
 Jan, 22, 2015
 ===============
 MapReduce: take code to the data rather than take data to the code
+
+Feb, 10, 2015
+==============
+Thread vs. Process: threads are within process 
+
+### Concurrency?
+
+In computer science, concurrency is a property of systems in which several computations are executing simultaneously, and potentially interacting with each other. The computations may be executing on multiple cores in the same chip, preemptively time-shared threads on the same processor, or executed on physically separated processors.
+
+Critical section, dead lock, starvation??
+
+Philosopher chopsticker problem
+
+Concurrent bugs are tricky to debug because sometimes they seldom show up.
+
+Compiled - C 
+Semi compiled - Java, scola
+Interpreted language - Ruby 
+
+From low to high:
+
+Machine code (0 and 1, can be different on different processors) -> JVM (compile java code to byte code) -> Ruby(do not need to compile ruby code)
+
+(keyword) this in java: instance of this class
+
+
